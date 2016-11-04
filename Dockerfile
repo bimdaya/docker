@@ -1,2 +1,5 @@
-FROM hello:1.0
+FROM hello:latest
+CMD ["echo","hello"]
+
+
 
