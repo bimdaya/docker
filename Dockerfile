@@ -1,4 +1,4 @@
-FROM hello:latest
+FROM hello-world:latest
 CMD ["echo","hello"]
 
 
